@@ -1,0 +1,12 @@
+.screen{
+     height: 35px;
+     width: 70%;
+     display: inline-block;
+     background-color: silver;
+     border: 1px solid black;
+     cursor: pointer;
+     flex: 0 1 calc(20% - 8px);
+     margin: 12px;
+     border-top-right-radius: 20px;
+     border-top-left-radius: 20px;
+}
